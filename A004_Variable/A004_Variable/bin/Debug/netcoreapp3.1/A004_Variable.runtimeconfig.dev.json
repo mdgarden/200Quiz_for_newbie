@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\METIS BLACK PLUS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\METIS BLACK PLUS\\.nuget\\packages"
+    ]
+  }
+}

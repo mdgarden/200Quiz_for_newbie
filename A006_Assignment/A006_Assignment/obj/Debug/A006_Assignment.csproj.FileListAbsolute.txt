@@ -1,0 +1,6 @@
+C:\Users\METIS BLACK PLUS\source\repos\A006_Assignment\A006_Assignment\bin\Debug\A006_Assignment.exe.config
+C:\Users\METIS BLACK PLUS\source\repos\A006_Assignment\A006_Assignment\bin\Debug\A006_Assignment.exe
+C:\Users\METIS BLACK PLUS\source\repos\A006_Assignment\A006_Assignment\bin\Debug\A006_Assignment.pdb
+C:\Users\METIS BLACK PLUS\source\repos\A006_Assignment\A006_Assignment\obj\Debug\A006_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\METIS BLACK PLUS\source\repos\A006_Assignment\A006_Assignment\obj\Debug\A006_Assignment.exe
+C:\Users\METIS BLACK PLUS\source\repos\A006_Assignment\A006_Assignment\obj\Debug\A006_Assignment.pdb

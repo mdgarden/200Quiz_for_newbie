@@ -1,0 +1,7 @@
+C:\Users\METIS BLACK PLUS\source\repos\A008_ConsoleWriteMulti\A008_ConsoleWriteMulti\bin\Debug\A008_ConsoleWriteMulti.exe.config
+C:\Users\METIS BLACK PLUS\source\repos\A008_ConsoleWriteMulti\A008_ConsoleWriteMulti\bin\Debug\A008_ConsoleWriteMulti.exe
+C:\Users\METIS BLACK PLUS\source\repos\A008_ConsoleWriteMulti\A008_ConsoleWriteMulti\bin\Debug\A008_ConsoleWriteMulti.pdb
+C:\Users\METIS BLACK PLUS\source\repos\A008_ConsoleWriteMulti\A008_ConsoleWriteMulti\obj\Debug\A008_ConsoleWriteMulti.csprojAssemblyReference.cache
+C:\Users\METIS BLACK PLUS\source\repos\A008_ConsoleWriteMulti\A008_ConsoleWriteMulti\obj\Debug\A008_ConsoleWriteMulti.csproj.CoreCompileInputs.cache
+C:\Users\METIS BLACK PLUS\source\repos\A008_ConsoleWriteMulti\A008_ConsoleWriteMulti\obj\Debug\A008_ConsoleWriteMulti.exe
+C:\Users\METIS BLACK PLUS\source\repos\A008_ConsoleWriteMulti\A008_ConsoleWriteMulti\obj\Debug\A008_ConsoleWriteMulti.pdb

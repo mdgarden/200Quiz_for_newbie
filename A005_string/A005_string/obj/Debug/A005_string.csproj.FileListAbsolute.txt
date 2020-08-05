@@ -1,0 +1,7 @@
+C:\Users\METIS BLACK PLUS\source\repos\A005_string\A005_string\bin\Debug\A005_string.exe.config
+C:\Users\METIS BLACK PLUS\source\repos\A005_string\A005_string\bin\Debug\A005_string.exe
+C:\Users\METIS BLACK PLUS\source\repos\A005_string\A005_string\bin\Debug\A005_string.pdb
+C:\Users\METIS BLACK PLUS\source\repos\A005_string\A005_string\obj\Debug\A005_string.csprojAssemblyReference.cache
+C:\Users\METIS BLACK PLUS\source\repos\A005_string\A005_string\obj\Debug\A005_string.csproj.CoreCompileInputs.cache
+C:\Users\METIS BLACK PLUS\source\repos\A005_string\A005_string\obj\Debug\A005_string.exe
+C:\Users\METIS BLACK PLUS\source\repos\A005_string\A005_string\obj\Debug\A005_string.pdb

@@ -1,0 +1,6 @@
+C:\Users\METIS BLACK PLUS\source\repos\A010_ConsoleFormat\A010_ConsoleFormat\bin\Debug\A010_ConsoleFormat.exe.config
+C:\Users\METIS BLACK PLUS\source\repos\A010_ConsoleFormat\A010_ConsoleFormat\bin\Debug\A010_ConsoleFormat.exe
+C:\Users\METIS BLACK PLUS\source\repos\A010_ConsoleFormat\A010_ConsoleFormat\bin\Debug\A010_ConsoleFormat.pdb
+C:\Users\METIS BLACK PLUS\source\repos\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.csproj.CoreCompileInputs.cache
+C:\Users\METIS BLACK PLUS\source\repos\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.exe
+C:\Users\METIS BLACK PLUS\source\repos\A010_ConsoleFormat\A010_ConsoleFormat\obj\Debug\A010_ConsoleFormat.pdb

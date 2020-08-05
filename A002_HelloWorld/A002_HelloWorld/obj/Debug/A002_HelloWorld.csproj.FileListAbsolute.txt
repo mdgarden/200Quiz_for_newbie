@@ -1,0 +1,7 @@
+C:\Users\METIS BLACK PLUS\source\repos\A002_HelloWorld\A002_HelloWorld\bin\Debug\A002_HelloWorld.exe.config
+C:\Users\METIS BLACK PLUS\source\repos\A002_HelloWorld\A002_HelloWorld\bin\Debug\A002_HelloWorld.exe
+C:\Users\METIS BLACK PLUS\source\repos\A002_HelloWorld\A002_HelloWorld\bin\Debug\A002_HelloWorld.pdb
+C:\Users\METIS BLACK PLUS\source\repos\A002_HelloWorld\A002_HelloWorld\obj\Debug\A002_HelloWorld.csprojAssemblyReference.cache
+C:\Users\METIS BLACK PLUS\source\repos\A002_HelloWorld\A002_HelloWorld\obj\Debug\A002_HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\METIS BLACK PLUS\source\repos\A002_HelloWorld\A002_HelloWorld\obj\Debug\A002_HelloWorld.exe
+C:\Users\METIS BLACK PLUS\source\repos\A002_HelloWorld\A002_HelloWorld\obj\Debug\A002_HelloWorld.pdb

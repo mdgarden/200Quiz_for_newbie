@@ -1,0 +1,6 @@
+C:\Users\METIS BLACK PLUS\source\repos\A009_VariablesAndWrite\A009_VariablesAndWrite\bin\Debug\A009_VariablesAndWrite.exe.config
+C:\Users\METIS BLACK PLUS\source\repos\A009_VariablesAndWrite\A009_VariablesAndWrite\bin\Debug\A009_VariablesAndWrite.exe
+C:\Users\METIS BLACK PLUS\source\repos\A009_VariablesAndWrite\A009_VariablesAndWrite\bin\Debug\A009_VariablesAndWrite.pdb
+C:\Users\METIS BLACK PLUS\source\repos\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\METIS BLACK PLUS\source\repos\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.exe
+C:\Users\METIS BLACK PLUS\source\repos\A009_VariablesAndWrite\A009_VariablesAndWrite\obj\Debug\A009_VariablesAndWrite.pdb

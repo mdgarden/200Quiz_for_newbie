@@ -1,0 +1,13 @@
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.exe
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.deps.json
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.runtimeconfig.json
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.runtimeconfig.dev.json
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.dll
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\bin\Debug\netcoreapp3.1\A004_Variable.pdb
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.csprojAssemblyReference.cache
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.AssemblyInfoInputs.cache
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.AssemblyInfo.cs
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.csproj.CoreCompileInputs.cache
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.dll
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.pdb
+C:\Users\METIS BLACK PLUS\source\repos\A004_Variable\A004_Variable\obj\Debug\netcoreapp3.1\A004_Variable.genruntimeconfig.cache

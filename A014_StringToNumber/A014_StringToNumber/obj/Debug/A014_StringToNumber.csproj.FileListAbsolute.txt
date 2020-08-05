@@ -1,0 +1,7 @@
+C:\Users\METIS BLACK PLUS\source\repos\A014_StringToNumber\A014_StringToNumber\bin\Debug\A014_StringToNumber.exe.config
+C:\Users\METIS BLACK PLUS\source\repos\A014_StringToNumber\A014_StringToNumber\bin\Debug\A014_StringToNumber.exe
+C:\Users\METIS BLACK PLUS\source\repos\A014_StringToNumber\A014_StringToNumber\bin\Debug\A014_StringToNumber.pdb
+C:\Users\METIS BLACK PLUS\source\repos\A014_StringToNumber\A014_StringToNumber\obj\Debug\A014_StringToNumber.csprojAssemblyReference.cache
+C:\Users\METIS BLACK PLUS\source\repos\A014_StringToNumber\A014_StringToNumber\obj\Debug\A014_StringToNumber.csproj.CoreCompileInputs.cache
+C:\Users\METIS BLACK PLUS\source\repos\A014_StringToNumber\A014_StringToNumber\obj\Debug\A014_StringToNumber.exe
+C:\Users\METIS BLACK PLUS\source\repos\A014_StringToNumber\A014_StringToNumber\obj\Debug\A014_StringToNumber.pdb
