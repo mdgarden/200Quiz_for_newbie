@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace A049_PrimeNumber
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Please enter the number: ");
+            int num = int.Parse(Console.ReadLine());
+            int index;
+
+            for ( index = 2; index < num; index++)
+            {
+                if (num % index == 0)
+                {
+                    Console.WriteLine("{0}is not Prime Number.", num);
+                    break;
+                }
+            }
+            if (index == num)
+                Console.WriteLine("{0} is Prime Number.", num);
+        }
+    }
+}

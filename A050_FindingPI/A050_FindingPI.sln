@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A050_FindingPI", "A050_FindingPI\A050_FindingPI.csproj", "{49CAF9C2-CFA2-44A2-8045-98D9B11BE00A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49CAF9C2-CFA2-44A2-8045-98D9B11BE00A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49CAF9C2-CFA2-44A2-8045-98D9B11BE00A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49CAF9C2-CFA2-44A2-8045-98D9B11BE00A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49CAF9C2-CFA2-44A2-8045-98D9B11BE00A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0350E1A4-12BD-4CCC-9F1B-50B70C0DEEB2}
+	EndGlobalSection
+EndGlobal
