@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A177_SankeBite", "A177_SankeBite\A177_SankeBite.csproj", "{1315E392-2621-47EA-AE11-408BCBF6D722}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1315E392-2621-47EA-AE11-408BCBF6D722}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1315E392-2621-47EA-AE11-408BCBF6D722}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1315E392-2621-47EA-AE11-408BCBF6D722}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1315E392-2621-47EA-AE11-408BCBF6D722}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA148AD4-0F04-4F92-88EC-C7154D6F29E6}
+	EndGlobalSection
+EndGlobal
