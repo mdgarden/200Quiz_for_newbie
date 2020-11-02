@@ -27,19 +27,51 @@ namespace A160_WPF_SimpleCalc
 
         public MainWindow()
         {
-            private void btn_Click(object sender, RoutedEventArgs e)
-            {
-                Button btn = sender as Button;
-                string number = btn.Content.ToString();
-                if (MaskedTextResultHint.Text == "0" || newButton == true)
-                {
-                    txtResult.Text = number;
-                    newButton = false
-                }
-                else
-                    txtResult.Text = txtResult.Text + number;
-            }
-            ///InitializeComponent();
+            InitializeComponent();
+        }
+        
+        //숫자 버튼의 처리
+        private void btn_Click(object sender, RoutedEventArgs e)
+        {
+              Button btn = sender as Button;
+              string number = btn.Content.ToString();
+              if (txtResult.Text == "0" || newButton == true)
+              {
+                  txtResult.Text = number;
+                newButton = false;
+              }
+              else
+                  txtResult.Text = txtResult.Text + number;
+        }
+
+        //operator 4개의 처리
+        private void btnOp_Click(object sender, RoutedEventArgs e)
+        {
+            Button btn = sender as Button;
+
+            savedValue = double.Parse(txtResult.Text);
+            myOperator = btn.Content.ToString()[0];
+            newButton = true;
+        }
+
+        //소수점의 처리
+        private void Dot_Click(object sender, RoutedEventArgs e)
+        {
+            if (txtResult.Text.Contains(".") == false)
+                txtResult.Text += ".";
+        }
+
+        //"=" 버튼의 처리
+        private void Equal_Click(object sender, RoutedEventArgs e)
+        {
+            if (myOperator == '+')
+                txtResult.Text = (savedValue + double.Parse(txtResult.Text)).ToString();
+            else if (myOperator == '-')
+                txtResult.Text = (savedValue - double.Parse(txtResult.Text)).ToString();
+            else if (myOperator == 'x')
+                txtResult.Text = (savedValue * double.Parse(txtResult.Text)).ToString();
+            else if (myOperator == '/')
+                txtResult.Text = (savedValue / double.Parse(txtResult.Text)).ToString();
         }
     }
 }
